@@ -1,0 +1,14 @@
+{
+    "word": "Format",
+    "definitions": [
+        "the arrangement of the parts of a printed page, such as text and graphics; as, text flowing around an illustration provides a more pleasing format; multiple columns are a more common format for large pages.",
+        "The pattern of organization of information in an electronic storage medium, such as the number and size of records, or the size, spacing, or separation symbols for fields in a record. A computer file, for example, may be in fixed-length format, in which each field or record occupies the same number of bytes, or in variable-length format, in which the lengths of fields or records varies. The number of formats are unlimited, being specifiable at will by programmers or in some cases by the users of programs.",
+        "The general organization, form, or plan for anything, such as an organized social, political, or entertainment event.",
+        "to set into a specific format; -- of printed matter or data recorded on a data storage medium."
+    ],
+    "examples": [
+        "The older manuscripts had been written in a much larger format than that found convenient for university work.",
+        "One might, indeed, protest that the format is a little too luxurious."
+    ],
+    "etymology": null
+}

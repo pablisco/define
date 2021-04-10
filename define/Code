@@ -1,0 +1,15 @@
+{
+    "word": "Code",
+    "definitions": [
+        "Any system of rules or regulations relating to one subject; as, the medical code, a system of rules for the regulation of the professional conduct of physicians.",
+        "Any set of symbols or combinations of symbols used for communication in any medium, such as by telegraph or semaphore. See Morse code, and error-correcting code.",
+        "Any set of standards established by the governing authority of a geopolitical entity restricting the ways that certain activities may be performed, especially the manner in which buildings or specific systems within buildings may be constructed; as, a building code; a plumbing code; a health code.",
+        "Any system used for secrecy in communication, in which the content of a communication is converted, prior to transmission, into symbols whose meaning is known only to authorized recipients of the message; such codes are used to prevent unauthorized persons from learning the content of the communication. The process of converting a communication into secret symbols by means of a code is called encoding or encryption. However, unauthorized persons may learn the code by various means, as in code-breaking.",
+        "An error-correcting code. See below.",
+        "The set of instructions for a computer program written by a programmer, usually in a programming language such as Fortran, C, Cobol, Java, C++, etc.; also, the executable binary object code. All such programs except for the binary object code must be converted by a compiler program into object code, which is the arrangement of data bits which can be directly interpreted by a computer.",
+        "To write a computer program in a programming language; as, to code a sorting routine."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

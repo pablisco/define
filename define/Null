@@ -1,0 +1,17 @@
+{
+    "word": "Null",
+    "definitions": [
+        "Of no legal or binding force or validity; of no efficacy; invalid; void; nugatory; useless.",
+        "Having a value of zero; as, of null utility.",
+        "Empty; having no members; as, the null set.",
+        "Unassigned or meaningless; -- a special value given to variables, especially pointers or logical variables, indicating that it is meaningless and cannot be used in computation; as, an uninitialized pointer in \"C\" is given a null value. The actual value that is stored in memory to indicate the null condition may vary with the computer language used.",
+        "Something that has no force or meaning.",
+        "That which has no value; a cipher; zero.",
+        "To annul.",
+        "One of the beads in nulled work."
+    ],
+    "examples": [
+        "Faultily faultless, icily regular, splendidly null, Dead perfection; no more."
+    ],
+    "etymology": "[L. nullus not any, none; ne not + ullus any, a dim. of unus one; cf. F. nul. See No, and One, and cf. None.]"
+}

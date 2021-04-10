@@ -1,0 +1,9 @@
+{
+    "word": "ASCII",
+    "definitions": [
+        "the American Standard Code for Information Interchange, a code consisting of a set of 128 7-bit combinations used in digital computers internally, for display purposes, and for exchanging data between computers. It is very widely used, but because of the limited number of characters encoded must be supplemented or replaced by other codes for encoding special symbols or words in languages other than English. Also used attributively; -- as, an ASCII file."
+    ],
+    "examples": [
+    ],
+    "etymology": "[Acronym: American Standard Code for Information Interchange.]"
+}

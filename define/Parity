@@ -1,0 +1,16 @@
+{
+    "word": "Parity",
+    "definitions": [
+        "The quality or condition of being equal or equivalent; a like state or degree; equality; equivalence; close correspondence; analogy; as, parity of reasoning.",
+        "Equivalence in value to the currency of another country.",
+        "A property assigned to elementary particles, conceptualized as a form of symmetry, representing the fact that no fundamental distinctions can be observed between right-handed and left-handed systems of particles in their interactions, and supported by the typical observation that the total parity of a system is unchanged as particles are created or annihilated; however, certain interactions involving the weak force have been shown to violate the principle of conservation of parity.",
+        "A property of the wave function of a system, which takes the value of +1 or -1, indicating whether the value of the wave function changes sign if each of the variables of the system is replaced by its negative.",
+        "The condition of having borne a child or children, alive or dead.",
+        "The property of being even or odd; as, 3 has odd parity, but 6 has even parity.",
+        "The property of having an even or odd number of bits set to the value of 1 (as opposed to 0); -- applied to bytes or larger groups of bits in a data structure. It is used mostly in the process of parity checking. The parity of a data structure can be changed by changing the value of the parity bit."
+    ],
+    "examples": [
+        "Equality of length and parity of numeration."
+    ],
+    "etymology": "[L. paritas, fr. par, paris, equal: cf. F. parit. See Pair, Peer an equal.]"
+}

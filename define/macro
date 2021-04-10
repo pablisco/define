@@ -1,0 +1,11 @@
+{
+    "word": "macro",
+    "definitions": [
+        "a single computer instruction which symbolizes, and is converted at the time of program execution or by a compiler into, a series of instructions in the same computer language.",
+        "A keystroke (or combination of keystrokes) which symbolizes and is replaced by a series of keystrokes; -- a convenient feature of some advanced programs, such as word processors or database programs, which allows a user to rapidly execute any series of operations which may be performed multiple times. Such macros may typically be defined by the program user, without rewriting or recompiling the program.",
+        "very large in scale or scope or capability; as, macroeconomics."
+    ],
+    "examples": [
+    ],
+    "etymology": "[shortened form of macroinstruction]"
+}

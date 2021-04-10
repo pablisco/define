@@ -1,0 +1,12 @@
+{
+    "word": "Polar",
+    "definitions": [
+        "Of or pertaining to one of the poles of the earth, or of a sphere; situated near, or proceeding from, one of the poles; as, polar regions; polar seas; polar winds.",
+        "Of or pertaining to the magnetic pole, or to the point to which the magnetic needle is directed.",
+        "Pertaining to, reckoned from, or having a common radiating point; as, polar coordinates.",
+        "The right line drawn through the two points of contact of the two tangents drawn from a given point to a given conic section. The given point is called the pole of the line. If the given point lies within the curve so that the two tangents become imaginary, there is still a real polar line which does not meet the curve, but which possesses other properties of the polar. Thus the focus and directrix are pole and polar. There are also poles and polar curves to curves of higher degree than the second, and poles and polar planes to surfaces of the second degree."
+    ],
+    "examples": [
+    ],
+    "etymology": "[Cf. F. polaire. See Pole of the earth.]"
+}

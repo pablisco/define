@@ -1,0 +1,14 @@
+{
+    "word": "Logic",
+    "definitions": [
+        "The science or art of exact reasoning, or of pure and formal thought, or of the laws according to which the processes of pure thinking should be conducted; the science of the formation and application of general notions; the science of generalization, judgment, classification, reasoning, and systematic arrangement; the science of correct reasoning.",
+        "A treatise on logic; as, Mill's Logic.",
+        "correct reasoning; as, I can't see any logic in his argument; also, sound judgment; as, the logic of surrender was uncontestable.",
+        "The path of reasoning used in any specific argument; as, his logic was irrefutable.",
+        "A function of an electrical circuit (called a gate) that mimics certain elementary binary logical operations on electrical signals, such as AND, OR, or NOT; as, a logic circuit; the arithmetic and logic unit."
+    ],
+    "examples": [
+        "Logic is the science of the laws of thought, as thought; that is, of the necessary conditions to which thought, considered in itself, is subject."
+    ],
+    "etymology": "[OE. logike, F. logique, L. logica, logice, Gr. logikh` (sc. te`chnh), fr. logiko`s belonging to speaking or reason, fr. lo`gos speech, reason, le`gein to say, speak. See Legend.]"
+}

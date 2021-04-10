@@ -1,0 +1,21 @@
+{
+    "word": "Overlay",
+    "definitions": [
+        "To lay, or spread, something over or across; hence, to cover; to overwhelm; to press excessively upon.",
+        "To cover (an object made of an inexpensive metal, glass, or other material) with a thin sheet of an expensive metal, especially with silver or gold. Distinguished from to plate, which is done by a chemical or electrical deposition process.",
+        "To smother with a close covering, or by lying upon.",
+        "To put an overlay on.",
+        "A covering.",
+        "A piece of paper pasted upon the tympan sheet to improve the impression by making it stronger at a particular place.",
+        "A subroutine which occupies a portion of main memory which is occupied at some other time by another subroutine during execution of the same program. Overlays were used as an older technique to allow larger programs to be executed in restricted main memory space; the same effect is now accomplished by different techniques."
+    ],
+    "examples": [
+        "When any country is overlaid by the multitude which live upon it.",
+        "As when a cloud his beams doth overlay.",
+        "Framed of cedar overlaid with gold.",
+        "And overlay With this portentous bridge the dark abyss.",
+        "This woman's child died in the night; because she overlaid it.",
+        "A heap of ashes that o'erlays your fire."
+    ],
+    "etymology": null
+}
