@@ -1,0 +1,10 @@
+{
+    "word": "Facsimile",
+    "definitions": [
+        "A copy of anything made, either so as to be deceptive or so as to give every part and detail of the original; an exact copy or likeness.",
+        "A method for reproducing documents, drawing, or other planar image at a remote location by converting the document into coded electronic signals at one point, transmitting data via telephone line or radio signals to the remote point, and converting the signals back into a likeness of the original image. The device used at each end to convert the image to and from electronic signals was originally called Facsimile telegraph, then telefax machine, and now more commonly fax machine. The same process, using the same data transmission protocols, is now performed not only by devices dedicated exclusively to the telefax process, but also by computers and combined copying/scanning/telefax machines. Also called telefax or fax."
+    ],
+    "examples": [
+    ],
+    "etymology": "[L. fac simile make like; or an abbreviation of factum simile made like; facere to make + similes like. See Fact, and Simile.]"
+}

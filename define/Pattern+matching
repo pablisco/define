@@ -1,0 +1,9 @@
+{
+    "word": "Pattern matching",
+    "definitions": [
+        "A technique in automated data analysis, usually performed on a computer, by which a group of characteristic properties of an unknown object is compared with the comparable groups of characteristics of a set of known objects, to discover the idenity or proper classification of the unknown object."
+    ],
+    "examples": [
+    ],
+    "etymology": "[See pattern.]"
+}

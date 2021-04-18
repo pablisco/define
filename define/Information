@@ -1,0 +1,16 @@
+{
+    "word": "Information",
+    "definitions": [
+        "The act of informing, or communicating knowledge or intelligence.",
+        "Any fact or set of facts, knowledge, news, or advice, whether communicated by others or obtained by personal study and investigation; any datum that reduces uncertainty about the state of any part of the world; intelligence; knowledge derived from reading, observation, or instruction.",
+        "A proceeding in the nature of a prosecution for some offense against the government, instituted and prosecuted, really or nominally, by some authorized public officer on behalf of the government. It differs from an indictment in criminal cases chiefly in not being based on the finding of a grand jury. See Indictment.",
+        "A measure of the number of possible choices of messages contained in a symbol, signal, transmitted message, or other information-bearing object; it is usually quantified as the negative logarithm of the number of allowed symbols that could be contained in the message; for logarithms to the base 2, the measure corresponds to the unit of information, the hartley, which is log210, or 3.323 bits; called also information content. The smallest unit of information that can be contained or transmitted is the bit, corresponding to a yes-or-no decision.",
+        "Useful facts, as contrasted with raw data; as, among all this data, there must be some interesting information."
+    ],
+    "examples": [
+        "The active informations of the intellect.",
+        "Larger opportunities of information.",
+        "He should get some information in the subject he intends to handle."
+    ],
+    "etymology": "[F., fr. L. informatio representation, conception. See Inform, v. t.]"
+}

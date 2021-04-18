@@ -1,0 +1,9 @@
+{
+    "word": "parity check",
+    "definitions": [
+        "The act or process of testing whether a byte or other data structure has an even or odd number of bits set to the value of 1; -- it is used primarily to detect errors in data, especially in memory banks or in data transmitted over a communications line. The parity can be changed by assigning one bit in each data structure as the parity bit, so that the total number of bits set to the value of 1 is odd (odd parity) or even (even parity). If parity is used for error checking the writing and reading systems must first agree on which type of parity (odd or even) to use; if the reading system detects a deviation from the agreed parity, it signals an error, to be handled by the error-handling processes of the system."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

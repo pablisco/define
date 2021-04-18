@@ -1,0 +1,9 @@
+{
+    "word": "circuit breaker",
+    "definitions": [
+        "A device contained within an electrical circuit designed to interrupt the circuit when the current exceeds a preset value; it is sometimes called a contact breaker. Its function is to prevent fire or damage to the circuit or the devices on the circuit which could be caused by excess current, such as that caused by a short-circuit. It differs from a fuse in not having a conducting element which melts (see 2nd fuse, n.). Circuit breakers are designed to be easily reset, i. e. to reclose the circuit after it has been opened by the circuit breaker; this is usually accomplished by simply moving a switch back and forth. They are commonly used in buildings to protect individual electrical lines, and are often contained in groups within a box called a circuit breaker panel, which divides the current from a main electrical line into multiple circuits each protected by a separate circuit breaker. Less commonly they may be found on individual devices."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

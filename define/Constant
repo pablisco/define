@@ -1,0 +1,21 @@
+{
+    "word": "Constant",
+    "definitions": [
+        "Not liable, or given, to change; permanent; regular; continuous; continually recurring; steadfast; faithful; not fickle. Opposite of changeable and variable.",
+        "Remaining unchanged or invariable, as a quantity, force, law, etc.",
+        "Consistent; logical.",
+        "That which is not subject to change; that which is invariable.",
+        "A quantity that does not change its value; -- used in countradistinction to variable.",
+        "A number whose value, when ascertained (as by observation) and substituted in a general mathematical formula expressing an astronomical law, completely determines that law and enables predictions to be made of its effect in particular cases.",
+        "A number expressing some property or condition of a substance or of an instrument of precision; as, the dielectric constant of quartz; the collimation constant of a transit instrument.",
+        "a data structure that does not change during the course of execution of a program. It may be a number, a string, or a more complex data structure; -- contrasted with variable."
+    ],
+    "examples": [
+        "If . . . you mix them, you may turn these two fluid liquors into a constant body.",
+        "Both loving one fair maid, they yet remained constant friends.",
+        "I am constant to my purposes.",
+        "His gifts, his constant courtship, nothing gained.",
+        "Onward the constant current sweeps."
+    ],
+    "etymology": null
+}

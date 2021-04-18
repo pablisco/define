@@ -1,0 +1,9 @@
+{
+    "word": "lossy compression",
+    "definitions": [
+        "The compression of binary data into a form which, when it is re-expanded, has most, but not all, of the original information. It is used primarily for compression of images and sounds, and is designed to provide a high degree of compression at the cost of a slight loss of data. It is expemplified by the JPEG compression standard. Images compressed by a lossy compression algorithm are re-expanded into an image close, but not identical to the original image; the difference between the original and the reconstructed image may be imperceptible to normal viewing by the eye."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

@@ -1,0 +1,9 @@
+{
+    "word": "dynamic RAM",
+    "definitions": [
+        "a type of random access memory using circuits that require periodic refresh cycles in order to retain the stored information. Contrasted to static ram, which maintains the memory state as long as the power is still applied."
+    ],
+    "examples": [
+    ],
+    "etymology": "[Random Access Memory.]"
+}

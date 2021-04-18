@@ -1,0 +1,9 @@
+{
+    "word": "infinite loop",
+    "definitions": [
+        "a series of instructions in a computer program which, when executed, cause a cyclic repetition of the same instructions, with no other action by the program, for as long as the program continues to be executed, or the loop is interrupted by some external action."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

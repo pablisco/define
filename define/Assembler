@@ -1,0 +1,10 @@
+{
+    "word": "Assembler",
+    "definitions": [
+        "a computer program that takes as input a set of instructions written in assembly language, and produces a corresponding executable computer program in machine language.",
+        "same as assembly language."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

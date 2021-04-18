@@ -1,0 +1,9 @@
+{
+    "word": "molecular formula",
+    "definitions": [
+        "An expression representing the composition of elements in a chemical substance, commonly consisting of a series of letters and numbers comprising the atomic symbols of each element present in a compound followed by the number of atoms of that element present in one molecule of the substance. Thus the molecular formula for common alcohol (ethyl alcohol) is C2H6O, meaning that each molecule contains two carbon atoms, six hydrogen atoms, and one oxygen atom. The molecular formula may be written to provide some indication of the actual structure of the molecule, in which case structural units may be written separately. Thus, ethyl alcohol can also be written as CH3.CH2.OH or CH3-CH2-OH, in which the period or dash between functional groups indicates a single bond between the principle atoms of each group. This formula shows that in ethyl alcohol, the carbon of a methyl group (CH3-) is attached to the carbon of a methylene group (-CH2-), which is attached to the oxygen of a hydroxyl group (-OH). A structural formula is a graphical depiction of the relative positions of atoms in a molecule, and may be very complicated."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

@@ -1,0 +1,9 @@
+{
+    "word": "frameshift",
+    "definitions": [
+        "of, pertaining to, or causing a type of mutation consisting of the insertion or deletion of one or more nucleotides in the nucleic acid structure of a gene, when the number of base pairs inserted or deleted is not a multiple of three. If the addition or deletion occurs in multiples of three, the unaffected nucleotides in the genome remain in the proper order (\"frame\") to be correctly translated into protein; in such cases of insertions or deletions not causing a frame shift, a functional though altered protein may be produced by the organism. Frameshift mutations cause more profound changes in the composition of the protein resulting from translation of the mutated gene."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

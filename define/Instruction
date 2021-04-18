@@ -1,0 +1,13 @@
+{
+    "word": "Instruction",
+    "definitions": [
+        "The act of instructing, teaching, or furnishing with knowledge; information.",
+        "That which instructs, or with which one is instructed; the intelligence or information imparted",
+        "Precept; information; teachings.",
+        "Direction; order; command.",
+        "a segment of coded data that is interpreted by a computer as a command to perform an operation or series of operations. The term instruction is applied to both the electronic form of the data as represented in and executed by the computer, and to any line of written computer code which is interpreted as one instruction by a compiler. A computer program is comprised of one or more instructions."
+    ],
+    "examples": [
+    ],
+    "etymology": "[L. instructio: cf. F. instruction.]"
+}

@@ -1,0 +1,11 @@
+{
+    "word": "Iteration",
+    "definitions": [
+        "Recital or performance a second time; repetition.",
+        "The execution of a statement or series of statements in a loop which is repeated in a computer program; as, at each iteration, the counter is incremented by 2."
+    ],
+    "examples": [
+        "What needs this iteration, woman?"
+    ],
+    "etymology": "[L. iteratio.]"
+}

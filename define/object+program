@@ -1,0 +1,9 @@
+{
+    "word": "object program",
+    "definitions": [
+        "A computer program which has been translated into machine language by a compiler and assembler, but not yet linked into an executable program; sometimes called an obj file, because its file name typically has the extension [PJC]"
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

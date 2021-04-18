@@ -1,0 +1,9 @@
+{
+    "word": "Markov process",
+    "definitions": [
+        "a random process in which the probabilities of states in a series depend only on the properties of the immediately preceding state or the next preceeding state, independent of the path by which the preceding state was reached. It is distinguished from a Markov chain in that the states of a Markov process may be continuous as well as discrete."
+    ],
+    "examples": [
+    ],
+    "etymology": "[after A. A. Markov, Russian mathematician, b. 1856, d. 1922.]"
+}

@@ -1,0 +1,9 @@
+{
+    "word": "job control language",
+    "definitions": [
+        "A programming language used to specify the manner, timing, and other requirements of execution of a task or set of tasks submitted for execution, especially in background, on a multitasking computer; a programming language for controlling job{7} execution. Abbreviated JCL."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

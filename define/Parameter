@@ -1,0 +1,16 @@
+{
+    "word": "Parameter",
+    "definitions": [
+        "A constant number which is part of a theory, function, or calculation, whose value is not determined by the form of the theory or equation itself, and may in some cases be arbitrary assigned.",
+        "A term applied to some characteristic magnitude whose value, invariable as long as one and the same function, curve, surface, etc., is considered, serves to distinguish that function, curve, surface, etc., from others of the same kind or family.",
+        "(in the ellipse and hyperbola), a third proportional to any diameter and its conjugate, or in the parabola, to any abscissa and the corresponding ordinate.",
+        "Any constant number which is required to calculate values of observed phenomena according to a theory, but the value of which must be determined by experiment, and cannot be calculated from the fundamental assumptions of the theory. In general, a theory which has a large number of parameters, though it may accurately predict experimental results, is considered as having less explanatory power and as being less esthetically pleasing than a theory with fewer parameters.",
+        "The ratio of the three crystallographic axes which determines the position of any plane; also, the fundamental axial ratio for a given species.",
+        "The limits, guidelines, or assumptions from within which an activity is carried out; as, new arrivals need to learn the parameters of the research in our department.",
+        "A variable used in a calculation within a computer program which must be assigned a value before the calculation can be performed; as, let's plug in the parameters and see what the result is.",
+        "A characteristic or element, especially one used as a criterion for evaluation or judgment; as, a useful parameter for determining efficiency."
+    ],
+    "examples": [
+    ],
+    "etymology": "[Pref. para- + -meter: cf. F. param.]"
+}

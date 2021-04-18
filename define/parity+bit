@@ -1,0 +1,9 @@
+{
+    "word": "parity bit",
+    "definitions": [
+        "The bit within a data structure which is assigned a value of 1 or 0 so as to make the parity{7} of the data structure odd or even. Data structures may or may not have parity bits, dpending on whether the system does or does not perform parity checking. The most commonly used parity bit is the eigth (higher-order) bit of a byte, which is used when data transmission uses only the 7 lower-order bits of each byte as significant data; some memory systems use a ninth bit as a parity bit for each eight bits (one byte) of significant data in memory."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

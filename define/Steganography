@@ -1,0 +1,9 @@
+{
+    "word": "Steganography",
+    "definitions": [
+        "The branch of cryptography in which messages are hidden inside other messages; -- used commonly for the process of hiding messages inside a computerized image file, as for example hiding the name and copyright notice of the owner of an image as protection against violation of the copyright."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

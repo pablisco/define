@@ -1,0 +1,9 @@
+{
+    "word": "disassembler",
+    "definitions": [
+        "a computer program that takes as input a computer program in machine language and produces an equivalent assembly-language file."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

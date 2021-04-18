@@ -1,0 +1,13 @@
+{
+    "word": "Destructor",
+    "definitions": [
+        "A destroyer.",
+        "A furnace or oven for the burning or carbonizing of refuse",
+        "a furnace (called in full refuse destructor) in which the more solid constituents of sewage are burnt. Destructors are often so constructed as to utilize refuse as fuel.",
+        "in object-oriented programming, a function which destroys an object which was previously created by a different function."
+    ],
+    "examples": [
+        "Fire, the destructor and the artificial death of things."
+    ],
+    "etymology": "[L., from destruere. See Destroy, and cf. Destroyer.]"
+}

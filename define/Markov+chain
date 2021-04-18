@@ -1,0 +1,9 @@
+{
+    "word": "Markov chain",
+    "definitions": [
+        "A random process (Markov process) in which the probabilities of discrete states in a series depend only on the properties of the immediately preceding state or the next preceeding state, independent of the path by which the preceding state was reached. It differs from the more general Markov process in that the states of a Markov chain are discrete rather than continuous. Certain physical processes, such as diffusion of a molecule in a fluid, are modelled as a Markov chain. See also random walk."
+    ],
+    "examples": [
+    ],
+    "etymology": "[after A. A. Markov, Russian mathematician, b. 1856, d. 1922.]"
+}

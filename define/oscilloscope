@@ -1,0 +1,9 @@
+{
+    "word": "oscilloscope",
+    "definitions": [
+        "An electronic measuring instrument which provides a visual representation of the time variation of electrical quantities, such as voltage or current. It may be used to measure the shape of a voltage pulse or the frequency of an oscillating voltage. It can also be used to measure properties of other physical variables, such as sound or light intensity, if they can be translated into electrical voltage or current."
+    ],
+    "examples": [
+    ],
+    "etymology": "[L. oscillare to swing + -scope.]"
+}

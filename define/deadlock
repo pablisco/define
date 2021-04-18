@@ -1,0 +1,12 @@
+{
+    "word": "deadlock",
+    "definitions": [
+        "A lock which is not self-latching, but requires a key to throw the bolt forward.",
+        "A counteraction of things, which produces an entire stoppage; a complete obstruction of action."
+    ],
+    "examples": [
+        "Things are at a deadlock.",
+        "The Board is much more likely to be at a deadlock of two to two."
+    ],
+    "etymology": null
+}

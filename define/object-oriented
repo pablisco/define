@@ -1,0 +1,9 @@
+{
+    "word": "object-oriented",
+    "definitions": [
+        "Using data structures called objects, which encapsulate data and typically are accessed by passing messages, which in turn may trigger internal procedures within the object which are invisible outside the object."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}

@@ -1,0 +1,10 @@
+{
+    "word": "Toggle switch",
+    "definitions": [
+        "an electrical switch operated by pushing a lever through a small angle of deflection. The lever has a spring which returns it to its original position after the pressure applied by the operator is released.",
+        "A mechanism for acquiring input from an operator, such that taking some action (such as pressing a function key on a keyboard) will cause a program variable to take a new value. The values are usually changed in cyclic fashion, so that a certain number of activations of the toggle returns the variable to its initial value. When there are two values to the variable, each activation of the toggle causes the variable to assume the alternate value."
+    ],
+    "examples": [
+    ],
+    "etymology": null
+}
